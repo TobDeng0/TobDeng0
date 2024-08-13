@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👋 Hi there!</h1>
   
-  <p>I'm a student and front-end developer based in Jiangxi, China.</p>
+  <p>I'm a student and front-end developer based in China.</p>
   
   <a href="https://github-readme-stats.vercel.app/api?username=TobDeng0&show_icons=true&bg_color=FF6F01&title_color=ffffff&text_color=ffffff&icon_color=ecf0f1">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TobDeng0&show_icons=true&bg_color=FF6F01&title_color=ffffff&text_color=ffffff&icon_color=ecf0f1" alt="TobDeng0's GitHub stats" />

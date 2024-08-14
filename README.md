@@ -1,5 +1,6 @@
-![ 1@4x](https://github.com/user-attachments/assets/62b50543-aee1-47ae-a4e8-99a82c5e7950)
+![js 1](https://github.com/user-attachments/assets/dc0c39f3-1547-4e17-a30a-37df7c763db9)
 <div align="center">
+
   <h1>👋 Hi there!</h1>
   
   <p>I'm a student and front-end developer based in China.</p>

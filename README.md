@@ -25,6 +25,7 @@
 
 ## 🛠️ Current Project
 
-- [Personal project homepage]([https://github.com/TobDeng0/Personal-project-homepage])[https://github.com/TobDeng0/Personal-project-homepage
-![357014279-e4551016-ff1b-485e-8834-272d64e90438](https://github.com/user-attachments/assets/3d4aa683-6220-497f-a9e3-77e24da7b899)
-![357014355-e43d3645-bbab-4d3b-912d-b959485f5a1e](https://github.com/user-attachments/assets/273bbbb4-5c2c-419c-9ecd-109394d14b25)
+- [KW-Music-crack-KW-]([https://github.com/TobDeng0/KW-Music-crack-KW-])https://github.com/TobDeng0/Personal-project-homepage
+![image](https://github.com/user-attachments/assets/ff9d7509-8617-40e9-8afb-83a09bec6f7d)
+![image](https://github.com/user-attachments/assets/e31a635f-cdbd-4cf1-97c8-6f6d7e90576e)
+
